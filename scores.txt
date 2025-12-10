@@ -1,0 +1,6 @@
+Jugador,80
+Jugador,490
+Jugador,515
+Jugador,1699
+Jugador,941
+Jugador,365

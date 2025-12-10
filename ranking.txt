@@ -1,0 +1,9 @@
+alan,7070
+fred,3210
+theo,360
+alan,170
+alan,1810
+DANIEL,270
+a,15610
+angela,60
+angela,2830
